@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UKtSl5Q+7PyJ1/gVeTiMBRQCFwPh/oDzJOY+OQdRrnKN6WuENEhKsVJ8+3lIPtsvldKvHAuXnbSvHuFLW2jPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\Auth.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38907\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\38907\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

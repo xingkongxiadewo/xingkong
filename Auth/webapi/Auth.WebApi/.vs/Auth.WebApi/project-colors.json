@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5e0253d-18fc-49b4-a959-42c9136464ac": {
+      "ProjectGuid": "e5e0253d-18fc-49b4-a959-42c9136464ac",
+      "DisplayName": "Auth.WebApi",
+      "ColorIndex": 0
+    },
+    "41d96939-5d26-4271-97f1-6a6995506b80": {
+      "ProjectGuid": "41d96939-5d26-4271-97f1-6a6995506b80",
+      "DisplayName": "Auth.DTO",
+      "ColorIndex": 1
+    },
+    "24679999-a1bc-4674-9bc8-3586280886d7": {
+      "ProjectGuid": "24679999-a1bc-4674-9bc8-3586280886d7",
+      "DisplayName": "Auth.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "8efe7249-2246-4eb8-bdfc-c6696fb38dba": {
+      "ProjectGuid": "8efe7249-2246-4eb8-bdfc-c6696fb38dba",
+      "DisplayName": "Common",
+      "ColorIndex": 3
+    },
+    "4d9740bc-9b9f-4fe0-889a-c36f018289ed": {
+      "ProjectGuid": "4d9740bc-9b9f-4fe0-889a-c36f018289ed",
+      "DisplayName": "Auth.Common",
+      "ColorIndex": 4
+    },
+    "50c98d0d-6a67-43f3-a79e-4771b513bc76": {
+      "ProjectGuid": "50c98d0d-6a67-43f3-a79e-4771b513bc76",
+      "DisplayName": "Auth.Enum",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

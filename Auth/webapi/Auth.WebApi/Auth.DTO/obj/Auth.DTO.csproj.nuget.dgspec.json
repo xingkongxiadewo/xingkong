@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\Auth.DTO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\Auth.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\Auth.DTO.csproj",
+        "projectName": "Auth.DTO",
+        "projectPath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\Auth.DTO.csproj",
+        "packagesPath": "C:\\Users\\38907\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\SHARE\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\38907\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\Auth.Enum.csproj": {
+                "projectPath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\Auth.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\Auth.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\Auth.Enum.csproj",
+        "projectName": "Auth.Enum",
+        "projectPath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\Auth.Enum.csproj",
+        "packagesPath": "C:\\Users\\38907\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\38907\\Desktop\\Auth\\Auth\\webapi\\Auth.WebApi\\Auth.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\SHARE\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\38907\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -21,7 +21,7 @@ export default defineComponent({
         Password: password.value,
       };
 
-      http.post("/api/SystemApi/Login", data).then((res) => {
+      http.post("/api/System1Api/Login", data).then((res) => {
         ElMessage({
           message: res.message,
           type: "success",
@@ -32,9 +32,9 @@ export default defineComponent({
           res.data.token_type + " " + res.data.access_token
         );
         localStorage.setItem("auth_login_username", res.data.profile.name);
+        console.log(res.data);
 
         store.commit("setUserInfo", res.data);
-
         router.push("/");
       });
     }
